@@ -25,7 +25,7 @@ SECRET_KEY = 'n$@rg25*n6^7(ana3zle)&%4d*(uct=^x0tz7rzyamy-4ha!92'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['friesewoudloper.pythonanywhere.com',]
 
 
 # Application definition
